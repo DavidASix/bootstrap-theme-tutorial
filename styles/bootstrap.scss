@@ -1,0 +1,15 @@
+// sass styles/bootstrap.scss styles/bootstrap.css
+
+$white: #FFFFFF;
+$primary: #5f539b;
+$secondary: #4360a3;
+$success: #2C9636;
+$danger: #962C2C;
+$info: #EEAAAA;
+$dark: #1A1A1A;
+$light: #F2F2F2;
+$muted: #d3d3d3;
+$muted-dark: #272727;
+$modal: #b4ada6;
+
+@import "./node_modules/bootstrap/scss/bootstrap";
