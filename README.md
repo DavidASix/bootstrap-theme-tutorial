@@ -1,4 +1,4 @@
-Header Image
+![graphic](./assets/repo-graphic.png)
 
 # Adding a Custom Color Theme to Bootstrap in 2024
 
